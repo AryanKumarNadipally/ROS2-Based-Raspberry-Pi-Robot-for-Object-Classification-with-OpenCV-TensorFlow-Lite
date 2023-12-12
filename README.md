@@ -54,3 +54,11 @@ The goal of this project was to create a mobile robot capable of navigating an e
 ├── models
 │   └── ...                       # TensorFlow Lite model files
 └── README.md
+
+## Video Demo
+
+
+https://github.com/AryanKumarNadipally/ROS2-Based-Raspberry-Pi-Robot-for-Object-Classification-with-OpenCV-TensorFlow-Lite/assets/143588978/ad00a173-6430-4aa3-862a-050f83ec8aa5
+
+
+
