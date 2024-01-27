@@ -38,6 +38,10 @@ The goal of this project was to create a mobile robot capable of navigating an e
 - TensorFlow Lite
 - Visual Studio Code with SSH for remote work
 
+## Output Video
+
+[https://www.dropbox.com/scl/fi/q3daby68kqu67z4ol5ad6/Demo.mp4?rlkey=jukkxwqm8fmw8d8d3s8ntfeio&dl=0]
+
 ## Directory Structure
 
 ```plaintext
